@@ -1,7 +1,7 @@
 
  import React, { Component} from 'react';
-
- import {
+ 
+ import {    
     View,Text,StyleSheet,
     TextInput, Alert, ImageBackground,
     ScrollView, Image,
