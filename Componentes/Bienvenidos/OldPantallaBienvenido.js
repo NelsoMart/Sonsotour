@@ -1,12 +1,12 @@
 
  import React, { Component} from 'react';
  
- import {    
-    View,Text,StyleSheet,
+ import {        
+    View,Text,StyleSheet,   
     TextInput, Alert, ImageBackground,
     ScrollView, Image,
-    Button
- } from 'react-native';
+    Button    
+ } from 'react-native';   
 
  import { TouchableOpacity } from 'react-native-gesture-handler';
 
