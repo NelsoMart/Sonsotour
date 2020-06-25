@@ -61,7 +61,7 @@ type State = {
             date: [],
          }
       }
-
+    
  
       InsertUsers = () => {
         const {TextInputNombreUsuario} = this.state;
